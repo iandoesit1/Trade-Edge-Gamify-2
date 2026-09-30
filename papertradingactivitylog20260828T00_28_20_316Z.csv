@@ -1,0 +1,51 @@
+Time,Text
+2026-08-26 08:21:34,Order 3452537259 successfully placed
+2026-08-26 08:21:33,Modify position for symbol CME_MINI:MNQ1! with TP 29134.25
+2026-08-26 08:21:22,Order 3452536150 for symbol CME_MINI:MNQ1! has been executed at price 29156.00 for 25 units
+2026-08-26 08:21:22,Order 3452536150 successfully placed
+2026-08-26 08:21:22,Call to place market order to sell 25 units of symbol CME_MINI:MNQ1! 
+2026-08-26 07:03:37,Order 3452150791 for symbol CME_MINI:MNQ1! has been executed at price 29203.25 for 25 units
+2026-08-26 07:03:37,Order 3452150791 successfully placed
+2026-08-26 07:03:37,Call to place market order to buy 25 units of symbol CME_MINI:MNQ1! 
+2026-08-26 07:03:33,Order 3452150492 for symbol CME_MINI:MNQ1! has been executed at price 29207.25 for 25 units
+2026-08-26 07:03:33,Order 3452150492 successfully placed
+2026-08-26 07:03:33,Call to place market order to sell 25 units of symbol CME_MINI:MNQ1! 
+2026-08-25 09:48:10,Order 3448182292 for symbol CME_MINI:MNQ1! has been executed at price 29226.75 for 25 units
+2026-08-25 09:48:10,Order 3448182292 successfully placed
+2026-08-25 09:48:10,Call to place market order to sell 25 units of symbol CME_MINI:MNQ1! 
+2026-08-25 09:47:44,Order 3448178992 for symbol CME_MINI:MNQ1! has been executed at price 29222.00 for 25 units
+2026-08-25 09:47:44,Order 3448178992 successfully placed
+2026-08-25 09:47:44,Call to place market order to buy 25 units of symbol CME_MINI:MNQ1! 
+2026-08-21 12:26:13,Order 3434299028 for symbol CME_MINI:MNQ1! has been executed at price 29386.75 for 25 units
+2026-08-21 12:26:13,Order 3434299028 successfully placed
+2026-08-21 12:26:13,Call to place market order to sell 25 units of symbol CME_MINI:MNQ1! 
+2026-08-21 12:25:20,Order 3434295680 for symbol CME_MINI:MNQ1! has been executed at price 29384.75 for 25 units
+2026-08-21 12:25:20,Order 3434295680 successfully placed
+2026-08-21 12:25:20,Call to place market order to buy 25 units of symbol CME_MINI:MNQ1! 
+2026-08-21 04:52:04,Order 3427621404 for symbol CME_MINI:MNQ1! has been executed at price 29489.50 for 30 units
+2026-08-20 08:45:44,Order 3427621404 successfully placed
+2026-08-20 08:45:44,Modify position for symbol CME_MINI:MNQ1! with TP 29488.25
+2026-08-20 08:45:39,Order 3427620431 for symbol CME_MINI:MNQ1! has been executed at price 29422.25 for 15 units
+2026-08-20 08:45:39,Order 3427620431 successfully placed
+2026-08-20 08:45:39,Call to place market order to buy 15 units of symbol CME_MINI:MNQ1! 
+2026-08-20 08:45:27,Order 3427618087 for symbol CME_MINI:MNQ1! has been executed at price 29421.25 for 15 units
+2026-08-20 08:45:27,Order 3427618087 successfully placed
+2026-08-20 08:45:27,Call to place market order to buy 15 units of symbol CME_MINI:MNQ1! 
+2026-08-20 08:30:15,Order 3427318916 for symbol CME_MINI:MNQ1! has been executed at price 29381.50 for 15 units
+2026-08-20 08:11:59,Order 3427341854 successfully cancelled
+2026-08-20 08:11:58,Order 3427318916 modification confirmed
+2026-08-20 08:11:58,Order 3427341854 successfully placed
+2026-08-20 08:11:58,Modify position for symbol CME_MINI:MNQ1! with SL 29290.25 and TP 29380.50
+2026-08-20 08:07:33,Order 3427318916 successfully placed
+2026-08-20 08:07:33,Modify position for symbol CME_MINI:MNQ1! with TP 29380.50
+2026-08-20 08:07:30,Order 3427318700 for symbol CME_MINI:MNQ1! has been executed at price 29363.00 for 15 units
+2026-08-20 08:07:30,Order 3427318700 successfully placed
+2026-08-20 08:07:30,Call to place market order to buy 15 units of symbol CME_MINI:MNQ1! 
+2026-08-20 06:56:22,Order 3426973571 for symbol CME_MINI:MNQ1! has been executed at price 29361.25 for 15 units
+2026-08-20 06:56:22,Order 3426952650 successfully cancelled
+2026-08-20 06:56:13,Order 3426952650 modification confirmed
+2026-08-20 06:56:13,Order 3426973571 successfully placed
+2026-08-20 06:56:13,Modify position for symbol CME_MINI:MNQ1! with SL 29362.25 and TP 29409.25
+2026-08-20 06:51:11,Order 3426952650 successfully placed
+2026-08-20 06:51:11,Modify position for symbol CME_MINI:MNQ1! with TP 29409.25
+2026-08-20 06:50:56,Order 3426951506 for symbol CME_MINI:MNQ1! has been executed at price 29395.75 for 15 units

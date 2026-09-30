@@ -1,0 +1,2 @@
+Symbol,Side,Type,Quantity,Limit price,Stop price,Fill price,Take profit,Stop loss,Instruction,Status,Placing time,Order ID,Level ID,Expiry,Leverage,Margin
+CME_MINI:MNQ1!,Buy,Take Profit,25,29134.25,,,,,,Working,2026-08-26 08:21:33,3452537259,,2026-10-26 08:21:33,,
